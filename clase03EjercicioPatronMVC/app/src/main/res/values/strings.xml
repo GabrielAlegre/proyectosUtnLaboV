@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">clase03Ejercicio</string>
+    <string name="TextTvNombre">Ingrese su nombre:</string>
+    <string name="editTextNombreHint">Por ejemplo: Juan</string>
+    <string name="TextTvApellido">Ingrese su apellido:</string>
+    <string name="editTextApellidoHint">Por ejemplo: Perez</string>
+    <string name="TextTvDni">DNI:</string>
+    <string name="editTextDniHint">Por ejemplo: 33263408</string>
+    <string name="TextTvSexo">Sexo:</string>
+    <string name="RadioButtonUnoText">Hombre</string>
+    <string name="RadioButtonDosText">Mujer</string>
+    <string name="btnGuardarText">Guardar:</string>
+</resources>

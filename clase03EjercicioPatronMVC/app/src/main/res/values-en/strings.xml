@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">class03Exercise</string>
+    <string name="TextTvNombre">Enter your name:</string>
+    <string name="editTextNombreHint">For example: Juan</string>
+    <string name="TextTvApellido">Enter your surname:</string>
+    <string name="editTextApellidoHint">For example: Perez</string>
+    <string name="TextTvDni">DNI:</string>
+    <string name="editTextDniHint">For example: 33263408</string>
+    <string name="TextTvSexo">Gender:</string>
+    <string name="RadioButtonUnoText">Man</string>
+    <string name="RadioButtonDosText">Women</string>
+    <string name="btnGuardarText">Save</string>
+</resources>
